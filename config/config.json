@@ -1,0 +1,6 @@
+{  
+   "name" : "Your Name",
+   "email" : "your gmail email(we are using gmail smtp",
+   "password" : "Your Password",
+   "secret" : "secret"
+}
